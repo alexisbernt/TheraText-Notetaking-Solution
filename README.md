@@ -1,0 +1,1 @@
+**TheraText** is a notetaking solution built primarily for therapists. Developed by Klayton Pagel and Alexis Bernthal during their undergrad (2024-2026), it is now publicly launching and open to anyone interested in the project. Use at your own discretion. The developers accept no liability for your use of this software.
