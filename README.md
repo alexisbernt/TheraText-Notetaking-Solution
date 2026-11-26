@@ -4,7 +4,9 @@
 
 **TheraText-Front-end-zipped.zip** We primarily used JavaScript for our Front-End. React-based. Django running for the back-end. We configured the front-end and back-end to a purchased domain name. Users interact with TheraText through the front-end. That information is passed to the Django back-end for storage. 
 
-**Back-end** Credentials are encrypted. 
+## Back-End Code: 
+
+**TheraText-Back-end-main** Credentials are encrypted. We used this as the database. Used Django for this. Django is an open-source Python web framework that gives developers pre-built tools to build websites and web applications. We were then able to store data (fake patient data in this case) on our Django back-end. 
 
 ## Versions of Websites:
 
