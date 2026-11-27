@@ -20,6 +20,10 @@
 
 Here are some images of our first-version of the website: <img width="1332" height="597" alt="image" src="https://github.com/user-attachments/assets/29e262dd-ddb9-4b58-a0c2-30f0852cb702" /> <img width="1328" height="550" alt="image" src="https://github.com/user-attachments/assets/de850218-8fec-44cf-97b3-4e0db31c294d" /> <img width="1351" height="585" alt="image" src="https://github.com/user-attachments/assets/f6d59dd1-eef1-4313-af12-906fe67a3e39" /> <img width="1332" height="590" alt="image" src="https://github.com/user-attachments/assets/1d33fb91-4d35-46d6-b5f8-25131634fc58" />
 
+**TheraText-WebV3-main** The first version of the TheraText website. Written in HTML, JavaScript, and CSS. 
+
+Here are some images of our first-version of the website: <img width="1328" height="552" alt="image" src="https://github.com/user-attachments/assets/b401f547-d675-4b57-87bc-e44a0bd45897" />  <img width="1240" height="587" alt="image" src="https://github.com/user-attachments/assets/b6a97552-e60a-49ba-b48a-9329d9d824e2" /> <img width="776" height="595" alt="image" src="https://github.com/user-attachments/assets/6558ecaf-7514-4fab-824c-1b715dfc37e3" />
+
 
 
 
