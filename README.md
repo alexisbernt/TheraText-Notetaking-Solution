@@ -8,6 +8,12 @@
 
 **TheraText-Back-end-main** Credentials are encrypted. We used this as the database. Used Django for this. Django is an open-source Python web framework that gives developers pre-built tools to build websites and web applications. We were then able to store data (fake patient data in this case) on our Django back-end. 
 
+## Additional Zipped Files: 
+
+**Terraform** This repository uses Terraform to define TheraText's cloud infrastructure as code, so environments can be provisioned, updated, and reproduced consistently with a few commands.
+
+**Gamification** This repository was put in place to make the notetaking software interactive and not a normal survey for both patients and therapists.
+
 ## Versions of Websites:
 
 **TheraText-WebV1-main** The first version of the TheraText website. All code we wrote. Created GIFs to get moving images / graphics on the webpage. Launched this using GitHub Pages. Written in HTML and CSS.
