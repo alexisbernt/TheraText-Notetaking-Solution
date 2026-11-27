@@ -18,4 +18,6 @@
 
 **TheraText-WebV1-main** The first version of the TheraText website. All code we wrote. Created GIFs to get moving images / graphics on the webpage. Launched this using GitHub Pages. Written in HTML and CSS.
 
+Here are some images of our first-version of the website: <img width="1332" height="597" alt="image" src="https://github.com/user-attachments/assets/29e262dd-ddb9-4b58-a0c2-30f0852cb702" />
+
 
